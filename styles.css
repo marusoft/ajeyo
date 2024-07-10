@@ -1,0 +1,35 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  background-color: #fff;
+  color: #1a1a1a;
+  font-family: "Space Grotesk";
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.title {
+}
+.menu-container {
+}
+.menu-lists {
+}
+.list-item {
+}
+.hero-container {
+}
+.hero-image {
+  width: 500px;
+  height: 400px;
+}
